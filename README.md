@@ -1,17 +1,17 @@
 # Data-Science
 This repository contains functionality related to data science and machine learning.
 
-The most interesting funcitonality is:
+The most interesting funcitonality here are the models that I have built to look at the 
+ability to predict Gross Domestic Product (GDP) growth rates.
 
-I have been looking at the ability to predict Gross Domestic Product (GDP) growth rates.
-
-The first model is a classifier that looks at freight transportation data that is released
+The first model I built is a classifier that looks at freight transportation data that is released
 by the US Department of Transportation (DOT) and predicts if GDP is increasing or decreasing.
 
-I first created a Logistic Regression model and didn't get the performance I wanted so I then
-also built a neural network classifier.  It is producing results in the range that I was hoping for.
+I then created a neural network regression model to predict the GDP growth rate based on that
+same DOT data.  The python notebooks and reports for these are available at:
 
-This can be viewed here: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Predictor.ipynb
+Classifier Notebook: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier.ipynb
+Classifier Report:   https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier-Report.pdf
 
-I am also looking at predicting the GDP growth rate based on DOT transportation data. 
-
+Neural Network Regression Notebook:  https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN.ipynb
+Neural Network Regression Report:    https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN-Report.pdf
