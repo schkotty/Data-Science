@@ -10,8 +10,8 @@ by the US Department of Transportation (DOT) and predicts if GDP is increasing o
 I then created a neural network regression model to predict the GDP growth rate based on that
 same DOT data.  The python notebooks and reports for these are available at:
 
-Classifier Notebook: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier.ipynb
+Classifier Notebook: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier.ipynb<br/>
 Classifier Report:   https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier-Report.pdf
 
-Neural Network Regression Notebook:  https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN.ipynb
+Neural Network Regression Notebook:  https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN.ipynb<br/>
 Neural Network Regression Report:    https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN-Report.pdf
