@@ -1,0 +1,11 @@
+I have been looking at models to predict Gross Domestic Product (GDP) growth rates.  This folder contains those models.
+
+I first built a classifier that looks at freight transportation data that is released by the US Department of Transportation (DOT) and predicts if GDP is increasing or decreasing.
+
+I then created a neural network regression model to predict the GDP growth rate based on that same DOT data. The python notebooks and reports for these are available at:
+
+Classifier Notebook: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier.ipynb
+Classifier Report: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Classifier-Report.pdf
+
+Neural Network Regression Notebook: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN.ipynb
+Neural Network Regression Report: https://github.com/schkotty/Data-Science/blob/master/GDP-Predictor/GDP-Regression-NN-Report.pdf
